@@ -1,0 +1,13 @@
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+
+# The below 2 folders are created once we login to the client and authentication strategy is LocalAuth
+.wwebjs_auth
+.wwebjs_cache
+
+data
+media
+
