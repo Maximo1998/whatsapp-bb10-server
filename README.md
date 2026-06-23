@@ -2,6 +2,8 @@
 
 A Node.js server that bridges the WhatsApp network with the [whatsapp-bb10-client](https://github.com/Maximo1998/whatsapp-bb10-client) Android app running on BlackBerry 10.
 
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/maxlakh1m)
+
 ## Requirements
 
 - Node.js 16+
