@@ -1,8 +1,8 @@
 # WhatsApp Server for BlackBerry 10
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE) [![Node.js](https://img.shields.io/badge/Node.js-16%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org) [![whatsapp-web.js](https://img.shields.io/badge/whatsapp--web.js-latest-25D366?logo=whatsapp&logoColor=white)](https://github.com/pedroslopez/whatsapp-web.js) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maxlakh1m)
+
 
 A Node.js server that bridges the WhatsApp network with the [whatsapp-bb10-client](https://github.com/Maximo1998/whatsapp-bb10-client) Android app running on BlackBerry 10.
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/maxlakh1m)
 
 ## Requirements
 
